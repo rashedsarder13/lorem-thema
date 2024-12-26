@@ -1,0 +1,54 @@
+{
+  "name": "lorem-thema",
+  "version": "1.0.0",
+  "description": "This package will allow developers to generate random text based on different themes like space, food, technology, or nature. It's both useful for developers who need placeholder text and fun because of the themed content.",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashedsarder13/lorem-thema.git"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "themes",
+    "text",
+    "generator",
+    "placeholder",
+    "text",
+    "lorem",
+    "generator",
+    "themed",
+    "lorem",
+    "ipsum",
+    "space",
+    "food",
+    "technology",
+    "nature",
+    "words",
+    "generator",
+    "lorem"
+  ],
+  "author": "rashedsarder13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashedsarder13/lorem-thema/issues"
+  },
+  "homepage": "https://github.com/rashedsarder13/lorem-thema#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  }
+}
