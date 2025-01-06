@@ -1,6 +1,6 @@
 {
   "name": "lorem-thema",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package will allow developers to generate random text based on different themes like space, food, technology, or nature. It's both useful for developers who need placeholder text and fun because of the themed content.",
   "main": "dist/index.js",
   "directories": {
