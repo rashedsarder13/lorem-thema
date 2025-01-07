@@ -2,3 +2,9 @@ src/
 tests/
 example.ts
 tsconfig.json
+jest.config.js
+package-lock.json
+.git/
+.gitignore
+coverage/
+*.log
